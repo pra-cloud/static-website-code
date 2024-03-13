@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Feb 2024 01:01:09 at https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/index.html -O1 "C:\Users\tuktu\OneDrive\Desktop\New folder\ppp" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/GET (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/index.html)
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/w3.png (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/index.html)
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/w1.png (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/index.html)
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/fonts/glyphicons-halflings-regular.eot (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/tapa.css)
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/fonts/glyphicons-halflings-regular.eot? (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/tapa.css)
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/fonts/glyphicons-halflings-regular.woff2 (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/tapa.css)
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/fonts/glyphicons-halflings-regular.woff (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/tapa.css)
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/fonts/glyphicons-halflings-regular.ttf (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/tapa.css)
+01:01:23	Error: 	"Not Found" (404) at link https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/fonts/glyphicons-halflings-regular.svg (from https://tehimibopupazuye-utkw7uwsjq-uc.a.run.app/windesk/00Windinside0actlatest/tapa.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 27 links scanned, 17 files written (465570 bytes overall) [426640 bytes received at 30474 bytes/sec], 78601 bytes transferred using HTTP compression in 1 files, ratio 34%
+(9 errors, 0 warnings, 0 messages)
